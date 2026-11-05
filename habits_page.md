@@ -1,12 +1,13 @@
 **Habits Page:**
-_As a [user role], I want [feature/goal], so that [reason]._
+_As a user, I want list of habits, so that I can manage them._
 
 **Acceptance Criteria:**
-1. [Criteria 1]
-2. [Criteria 2]
-3. [Criteria 3]
+1. Add a new habit
+2. Delete a habit
+3. Edit a habit
+4. Personalize a habit with color
 
-**Priority:** [High/Medium/Low]
-**Story Points:** [Estimated Effort in Points]
+**Priority:** High
+**Story Points:** 2
 **Notes:**
 - [Additional information or edge cases]
